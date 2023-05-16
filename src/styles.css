@@ -3,6 +3,8 @@
 * {
   box-sizing: border-box;
   font-family: "Comic Neue", cursive;
+  padding: 0;
+  margin: 0;
 }
 
 main > .title {
@@ -95,4 +97,21 @@ form {
 
 .add-button {
   align-self: end;
+}
+
+.popup {
+  position: absolute;
+  right: 0;
+  background-color: rgba(128, 128, 128, 0.322);
+  font-size: 20px;
+  padding: 0 10px;
+  margin: 10px 0;
+  width: auto;
+  transform: translateX(110%);
+  transition: all ease-in-out 500ms;
+}
+
+.popup-open {
+  transition: all ease-in-out 500ms;
+  transform: translateX(-10%);
 }

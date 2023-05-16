@@ -11,7 +11,6 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -43,12 +42,6 @@ A medium fidelity website that uses the Leaderboard API to display players score
 - [ ] **Refresh the board content**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://mahamadou-nouridine.github.io/leaderboard/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
