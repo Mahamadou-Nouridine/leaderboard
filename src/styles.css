@@ -59,6 +59,7 @@ button {
   display: flex;
   flex-direction: column;
 }
+
 .score {
   font-size: 20px;
   padding: 0 5px;
@@ -82,7 +83,7 @@ button {
 }
 
 .input-group > input::placeholder {
-  color:  black;
+  color: black;
   font-size: 15px;
 }
 
