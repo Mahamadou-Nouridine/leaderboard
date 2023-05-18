@@ -64,9 +64,10 @@ const submit = async () => {
 
 form.addEventListener('submit', (e) => {
   e.preventDefault();
-  submit();
-  nameInput.value = '';
-  scoreInput.value = '';
+  submit().then(() => {
+    nameInput.value = '';
+    scoreInput.value = '';
+  });
 });
 
 loadData();
